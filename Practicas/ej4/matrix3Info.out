@@ -1,0 +1,42 @@
+   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+   * atrix3info                                                              *
+   *                    Key = PR1      , Type = RUA                          *
+   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+       *  Dimension N                                      =      17281  *
+       *  Number of nonzero elements                       =     553956  *
+       *  Average number of nonzero elements/Column        =    32.0558  *
+       *  Standard deviation for above average             =    15.5264  *
+       *  Nonzero elements in strict lower part            =     270737  *
+       *  Nonzero elements in strict upper part            =     270737  *
+       *  Nonzero elements in main diagonal                =      12482  *
+       *  Weight of longest column                         =         62  *
+       *  Weight of shortest column                        =          8  *
+       *  Weight of longest row                            =         62  *
+       *  Weight of shortest row                           =          8  *
+       *  Matching elements in symmetry                    =     553956  *
+       *  Relative Symmetry Match (symmetry=1)             =     1.0000  *
+       *  Average distance of a(i,j)  from diag.           =  0.198E+03  *
+       *  Standard deviation for above average             =  0.213E+03  *
+       *-----------------------------------------------------------------*
+       *  Frobenius norm of A                              =  0.208E+04  *
+       *  Frobenius norm of symmetric part                 =  0.810E+03  *
+       *  Frobenius norm of nonsymmetric part              =  0.192E+04  *
+       *  Maximum element in A                             =  0.411E+02  *
+       *  Percentage of weakly diagonally dominant rows    =  0.637E-02  *
+       *  Percentage of weakly diagonally dominant columns =  0.608E-02  *
+       *-----------------------------------------------------------------*
+       *  Lower bandwidth  (max: i-j, a(i,j) .ne. 0)       =        451  *
+       *  Upper bandwidth  (max: j-i, a(i,j) .ne. 0)       =        451  *
+       *  Maximum Bandwidth                                =        899  *
+       *  Average Bandwidth                                =  0.597E+03  *
+       *  Number of nonzeros in skyline storage            =   15002917  *
+       *  90% of matrix is in the band of width            =        883  *
+       *  80% of matrix is in the band of width            =        873  *
+       *  The total number of nonvoid diagonals is         =        399  *
+       *  The 10 most important diagonals are (offsets)    :             *
+       *     3     2     1     0    -1    -2    -3     4    -4     5     *
+       *  The accumulated percentages they represent are   :             *
+       *   2.3   4.5   6.8   9.0  11.3  13.5  15.8  18.0  20.3  22.5     *
+       *-----------------------------------------------------------------*
+       *  The matrix does not have a block structure                     *
+       *-----------------------------------------------------------------*
